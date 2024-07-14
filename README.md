@@ -25,6 +25,7 @@
 ## 🧩 Technologies worked with
 
 <p> 
+<img alt="NEXT js" src="https://img.shields.io/badge/NEXTjs-blue">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
 <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
