@@ -1,11 +1,3 @@
-## 📊 Github Stats
-
-<span>
-<a href="https://github.com/utkarshpra78">
-<img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=utkarshpra78&layout=compact&langs_count=8&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="My Github Top Languages" />
-<img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api?username=utkarshpra78&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="RedHeadphone Github Stats" />
-</a>
-</span>
 
 
 
